@@ -8,4 +8,6 @@ Unicorn
 Yellow
 red
 pony
+
+Indigo
 These are the colors of the rainbow and a unicorn
